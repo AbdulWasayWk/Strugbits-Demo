@@ -1,0 +1,10 @@
+# Ignore Folders:
+/build
+/coverage
+**/.git
+**/node_modules
+
+# Ignore Files
+.gitignore
+README.md
+yarn.lock
